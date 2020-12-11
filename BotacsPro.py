@@ -41,7 +41,7 @@ class waktu():
    def waktumundur():
 
         menit = 0
-        detik = 5
+        detik = 3
         
         countdown(menit,detik)
 class Menubot():
